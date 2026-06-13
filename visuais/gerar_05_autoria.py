@@ -13,7 +13,7 @@ cores = [VERMELHO, AZUL, LARANJA]
 
 fig, ax = make_canvas(
     "Two Beatles wrote 88% of the songs",
-    "A songwriting credit is a property right, and it was not split four ways",
+    "Songwriting credit, and the royalties that follow it, was never split four ways",
     figsize=(9, 9))
 ax.set_position([0.08, 0.40, 0.86, 0.18])   # barra única, centralizada
 
