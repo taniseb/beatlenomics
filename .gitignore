@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# LinkedIn caption drafts (kept private, not part of the public analysis)
+posts/
