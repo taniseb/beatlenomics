@@ -11,3 +11,6 @@ __pycache__/
 
 # LinkedIn caption drafts (kept private, not part of the public analysis)
 posts/
+
+# Plano editorial (privado)
+calendario.md
