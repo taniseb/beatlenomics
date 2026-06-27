@@ -6,11 +6,14 @@ Each entry takes one question (how often does Paul play each song, how concentra
 
 I am [Tanise Bussmann](https://www.linkedin.com/in/tanisebussmann), a data scientist and economist. By day I measure market concentration in antitrust cases. This is the same toolkit, applied to something I love.
 
-## What's inside
+## The series
 
-| Post | Question | Key finding |
-|------|----------|-------------|
-| 04 | What does Paul McCartney play live, and how concentrated is it? | Gini of 0.77 across 373 songs. Half of them account for 1% of his stage time. |
+| # | Question | Key number | Link |
+|---|----------|------------|------|
+| 04 | What does Paul McCartney play live, and how concentrated is it? | Gini coefficient of 0.77 across 373 songs | [LinkedIn](https://www.linkedin.com/in/tanisebussmann/recent-activity/all/) |
+| 05 | How concentrated was Beatles songwriting? | Lennon-McCartney wrote 88% of the catalogue | [LinkedIn](https://www.linkedin.com/in/tanisebussmann/recent-activity/all/) |
+| 07 | Who owns the Beatles? | The catalogue returned 11.8% CAGR over 31 years, beating gold and matching the S&P 500 | coming soon |
+| 11 | It never gets old. But does it never get old? | 600M records sold, but not in Spotify's top 50. Here Comes the Sun still gets 472k plays per day. | coming soon |
 
 More posts are on the way.
 
