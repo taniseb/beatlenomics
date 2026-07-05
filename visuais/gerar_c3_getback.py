@@ -55,11 +55,12 @@ ax.text(x[10], df["Control"].iloc[10] - 12,
         "Control bands\n(Stones, Zeppelin, Pink Floyd)", color="#7A7A7A",
         fontsize=9.5, family="DejaVu Sans", va="top")
 
-# anotação do pico
+# anotação do pico (à direita do pico, área vazia — não briga com o rótulo da linha)
 peak_week = pd.Timestamp("2021-11-28")
-ax.annotate("2.7x baseline", xy=(peak_week, 100), xytext=(x[62], 92),
+ax.annotate("2.7x baseline", xy=(peak_week, 100), xytext=(x[88], 86),
             color=PRETO, fontsize=11, fontweight="bold", family="DejaVu Sans",
-            arrowprops=dict(arrowstyle="-", color=CINZA, lw=1))
+            ha="left", arrowprops=dict(arrowstyle="-", color=CINZA, lw=1,
+                                       connectionstyle="arc3,rad=-0.15"))
 
 ax.set_ylim(0, 112)
 ax.set_ylabel("Search interest (0-100)", color=CINZA, fontsize=10.5)
