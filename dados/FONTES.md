@@ -58,6 +58,34 @@ Comparação de artistas em vendas totais, streams Spotify, monthly listeners, t
 - **Nota:** streams do Spotify são dinâmicos; os valores aqui são um snapshot de jun/2026
 - **Usado em:** post 11 (it never gets old)
 
+## nowandthen_trends_raw.csv
+
+Google Trends semanal (`interest_over_time`) para "The Beatles", "The Rolling
+Stones", "Led Zeppelin", "Pink Floyd", mundial, 2023-05-28 a 2024-02-25.
+
+- **Origem:** pytrends (Google Trends), consulta conjunta (mesma normalização
+  0-100 dos 4 termos).
+- **Coleta:** 17/jul/2026.
+- **Usado em:** post C4 (Now and Then, efeito halo). Ver
+  `posts/c4-nowandthen-halo/referencias.md` para o desenho (DiD, mesmo
+  estimador do C3) e as ressalvas (contaminação da semana do teaser).
+
+## paul_geolift_trends_raw.csv
+
+Google Trends semanal (`interest_over_time`) para "Paul McCartney", por
+estado/região (Brasil + México), 2023-08-01 a 2025-02-01, formato longo.
+
+- **Origem:** pytrends (Google Trends), uma chamada por região (termo único,
+  sem combinar). Datas de show vêm da Wikipedia ("Got Back", turnê de Paul
+  McCartney) — ver `posts/c5-geolift-shows/referencias.md`.
+- **Coleta:** 17/jul/2026. Escopo reduzido de Brasil+México+Argentina para
+  Brasil+México nesta sessão: códigos de região da Argentina bateram em
+  rate-limit persistente do Google Trends.
+- **Usado em:** post C5 (geo-lift). O post não confirma o efeito geográfico
+  esperado — o achado foi que o grupo de controle não estava isolado do
+  tratamento (cobertura de imprensa nacional). Ver referencias.md do post
+  para a tentativa original de DiD por evento e por que foi abandonada.
+
 ---
 
 ## Comparações de asset classes (usadas no post 07, não em CSV separado)
