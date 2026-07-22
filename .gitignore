@@ -14,3 +14,9 @@ posts/
 
 # Plano editorial (privado)
 calendario.md
+
+# Site pessoal (planejamento privado)
+PLANO-SITE.md
+
+# Python venv
+.venv_pytrends/
