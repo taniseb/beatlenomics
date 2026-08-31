@@ -1,0 +1,1107 @@
+geo,label,country,is_treated,event_date,date,interest
+BR-DF,Brasilia,BR,True,2023-11-30,2023-07-30,4
+BR-DF,Brasilia,BR,True,2023-11-30,2023-08-06,42
+BR-DF,Brasilia,BR,True,2023-11-30,2023-08-13,14
+BR-DF,Brasilia,BR,True,2023-11-30,2023-08-20,7
+BR-DF,Brasilia,BR,True,2023-11-30,2023-08-27,5
+BR-DF,Brasilia,BR,True,2023-11-30,2023-09-03,5
+BR-DF,Brasilia,BR,True,2023-11-30,2023-09-10,3
+BR-DF,Brasilia,BR,True,2023-11-30,2023-09-17,5
+BR-DF,Brasilia,BR,True,2023-11-30,2023-09-24,4
+BR-DF,Brasilia,BR,True,2023-11-30,2023-10-01,3
+BR-DF,Brasilia,BR,True,2023-11-30,2023-10-08,4
+BR-DF,Brasilia,BR,True,2023-11-30,2023-10-15,4
+BR-DF,Brasilia,BR,True,2023-11-30,2023-10-22,9
+BR-DF,Brasilia,BR,True,2023-11-30,2023-10-29,6
+BR-DF,Brasilia,BR,True,2023-11-30,2023-11-05,12
+BR-DF,Brasilia,BR,True,2023-11-30,2023-11-12,11
+BR-DF,Brasilia,BR,True,2023-11-30,2023-11-19,11
+BR-DF,Brasilia,BR,True,2023-11-30,2023-11-26,100
+BR-DF,Brasilia,BR,True,2023-11-30,2023-12-03,12
+BR-DF,Brasilia,BR,True,2023-11-30,2023-12-10,8
+BR-DF,Brasilia,BR,True,2023-11-30,2023-12-17,15
+BR-DF,Brasilia,BR,True,2023-11-30,2023-12-24,4
+BR-DF,Brasilia,BR,True,2023-11-30,2023-12-31,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-01-07,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-01-14,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-01-21,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-01-28,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-02-04,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-02-11,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-02-18,1
+BR-DF,Brasilia,BR,True,2023-11-30,2024-02-25,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-03-03,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-03-10,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-03-17,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-03-24,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-03-31,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-04-07,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-04-14,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-04-21,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-04-28,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-05-05,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-05-12,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-05-19,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-05-26,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-06-02,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-06-09,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-06-16,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-06-23,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-06-30,1
+BR-DF,Brasilia,BR,True,2023-11-30,2024-07-07,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-07-14,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-07-21,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-07-28,1
+BR-DF,Brasilia,BR,True,2023-11-30,2024-08-04,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-08-11,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-08-18,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-08-25,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-09-01,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-09-08,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-09-15,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-09-22,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-09-29,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-10-06,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-10-13,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-10-20,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-10-27,1
+BR-DF,Brasilia,BR,True,2023-11-30,2024-11-03,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-11-10,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-11-17,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-11-24,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-12-01,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-12-08,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-12-15,0
+BR-DF,Brasilia,BR,True,2023-11-30,2024-12-22,2
+BR-DF,Brasilia,BR,True,2023-11-30,2024-12-29,0
+BR-DF,Brasilia,BR,True,2023-11-30,2025-01-05,0
+BR-DF,Brasilia,BR,True,2023-11-30,2025-01-12,0
+BR-DF,Brasilia,BR,True,2023-11-30,2025-01-19,0
+BR-DF,Brasilia,BR,True,2023-11-30,2025-01-26,0
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-07-30,5
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-08-06,59
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-08-13,18
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-08-20,8
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-08-27,7
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-09-03,7
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-09-10,5
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-09-17,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-09-24,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-10-01,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-10-08,12
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-10-15,9
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-10-22,8
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-10-29,8
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-11-05,14
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-11-12,13
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-11-19,14
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-11-26,52
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-12-03,100
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-12-10,21
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-12-17,20
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-12-24,6
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2023-12-31,4
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-01-07,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-01-14,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-01-21,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-01-28,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-02-04,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-02-11,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-02-18,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-02-25,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-03-03,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-03-10,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-03-17,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-03-24,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-03-31,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-04-07,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-04-14,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-04-21,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-04-28,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-05-05,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-05-12,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-05-19,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-05-26,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-06-02,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-06-09,4
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-06-16,4
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-06-23,6
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-06-30,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-07-07,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-07-14,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-07-21,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-07-28,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-08-04,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-08-11,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-08-18,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-08-25,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-09-01,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-09-08,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-09-15,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-09-22,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-09-29,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-10-06,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-10-13,6
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-10-20,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-10-27,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-11-03,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-11-10,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-11-17,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-11-24,0
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-12-01,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-12-08,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-12-15,3
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-12-22,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2024-12-29,2
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2025-01-05,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2025-01-12,1
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2025-01-19,0
+BR-MG,Belo Horizonte,BR,True,2023-12-03,2025-01-26,1
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-07-30,9
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-08-06,94
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-08-13,34
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-08-20,14
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-08-27,10
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-09-03,12
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-09-10,8
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-09-17,6
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-09-24,6
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-10-01,7
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-10-08,9
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-10-15,7
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-10-22,7
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-10-29,9
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-11-05,10
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-11-12,14
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-11-19,13
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-11-26,35
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-12-03,100
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-12-10,82
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-12-17,57
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-12-24,13
+BR-SP,Sao Paulo,BR,True,2023-12-07,2023-12-31,9
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-01-07,6
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-01-14,5
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-01-21,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-01-28,3
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-02-04,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-02-11,5
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-02-18,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-02-25,3
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-03-03,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-03-10,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-03-17,3
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-03-24,3
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-03-31,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-04-07,3
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-04-14,3
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-04-21,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-04-28,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-05-05,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-05-12,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-05-19,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-05-26,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-06-02,6
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-06-09,7
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-06-16,11
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-06-23,32
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-06-30,15
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-07-07,10
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-07-14,7
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-07-21,7
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-07-28,5
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-08-04,5
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-08-11,6
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-08-18,6
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-08-25,6
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-09-01,6
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-09-08,7
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-09-15,7
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-09-22,9
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-09-29,13
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-10-06,15
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-10-13,73
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-10-20,10
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-10-27,5
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-11-03,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-11-10,5
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-11-17,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-11-24,3
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-12-01,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-12-08,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-12-15,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-12-22,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2024-12-29,4
+BR-SP,Sao Paulo,BR,True,2023-12-07,2025-01-05,3
+BR-SP,Sao Paulo,BR,True,2023-12-07,2025-01-12,2
+BR-SP,Sao Paulo,BR,True,2023-12-07,2025-01-19,3
+BR-SP,Sao Paulo,BR,True,2023-12-07,2025-01-26,3
+BR-PR,Curitiba,BR,True,2023-12-13,2023-07-30,9
+BR-PR,Curitiba,BR,True,2023-12-13,2023-08-06,53
+BR-PR,Curitiba,BR,True,2023-12-13,2023-08-13,15
+BR-PR,Curitiba,BR,True,2023-12-13,2023-08-20,5
+BR-PR,Curitiba,BR,True,2023-12-13,2023-08-27,4
+BR-PR,Curitiba,BR,True,2023-12-13,2023-09-03,4
+BR-PR,Curitiba,BR,True,2023-12-13,2023-09-10,3
+BR-PR,Curitiba,BR,True,2023-12-13,2023-09-17,3
+BR-PR,Curitiba,BR,True,2023-12-13,2023-09-24,3
+BR-PR,Curitiba,BR,True,2023-12-13,2023-10-01,3
+BR-PR,Curitiba,BR,True,2023-12-13,2023-10-08,4
+BR-PR,Curitiba,BR,True,2023-12-13,2023-10-15,3
+BR-PR,Curitiba,BR,True,2023-12-13,2023-10-22,4
+BR-PR,Curitiba,BR,True,2023-12-13,2023-10-29,5
+BR-PR,Curitiba,BR,True,2023-12-13,2023-11-05,6
+BR-PR,Curitiba,BR,True,2023-12-13,2023-11-12,7
+BR-PR,Curitiba,BR,True,2023-12-13,2023-11-19,6
+BR-PR,Curitiba,BR,True,2023-12-13,2023-11-26,14
+BR-PR,Curitiba,BR,True,2023-12-13,2023-12-03,22
+BR-PR,Curitiba,BR,True,2023-12-13,2023-12-10,100
+BR-PR,Curitiba,BR,True,2023-12-13,2023-12-17,25
+BR-PR,Curitiba,BR,True,2023-12-13,2023-12-24,7
+BR-PR,Curitiba,BR,True,2023-12-13,2023-12-31,3
+BR-PR,Curitiba,BR,True,2023-12-13,2024-01-07,3
+BR-PR,Curitiba,BR,True,2023-12-13,2024-01-14,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-01-21,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-01-28,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-02-04,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-02-11,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-02-18,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-02-25,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-03-03,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-03-10,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-03-17,1
+BR-PR,Curitiba,BR,True,2023-12-13,2024-03-24,1
+BR-PR,Curitiba,BR,True,2023-12-13,2024-03-31,1
+BR-PR,Curitiba,BR,True,2023-12-13,2024-04-07,1
+BR-PR,Curitiba,BR,True,2023-12-13,2024-04-14,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-04-21,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-04-28,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-05-05,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-05-12,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-05-19,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-05-26,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-06-02,3
+BR-PR,Curitiba,BR,True,2023-12-13,2024-06-09,3
+BR-PR,Curitiba,BR,True,2023-12-13,2024-06-16,4
+BR-PR,Curitiba,BR,True,2023-12-13,2024-06-23,8
+BR-PR,Curitiba,BR,True,2023-12-13,2024-06-30,3
+BR-PR,Curitiba,BR,True,2023-12-13,2024-07-07,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-07-14,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-07-21,3
+BR-PR,Curitiba,BR,True,2023-12-13,2024-07-28,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-08-04,1
+BR-PR,Curitiba,BR,True,2023-12-13,2024-08-11,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-08-18,3
+BR-PR,Curitiba,BR,True,2023-12-13,2024-08-25,1
+BR-PR,Curitiba,BR,True,2023-12-13,2024-09-01,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-09-08,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-09-15,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-09-22,3
+BR-PR,Curitiba,BR,True,2023-12-13,2024-09-29,3
+BR-PR,Curitiba,BR,True,2023-12-13,2024-10-06,4
+BR-PR,Curitiba,BR,True,2023-12-13,2024-10-13,7
+BR-PR,Curitiba,BR,True,2023-12-13,2024-10-20,4
+BR-PR,Curitiba,BR,True,2023-12-13,2024-10-27,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-11-03,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-11-10,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-11-17,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-11-24,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-12-01,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-12-08,0
+BR-PR,Curitiba,BR,True,2023-12-13,2024-12-15,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-12-22,2
+BR-PR,Curitiba,BR,True,2023-12-13,2024-12-29,0
+BR-PR,Curitiba,BR,True,2023-12-13,2025-01-05,1
+BR-PR,Curitiba,BR,True,2023-12-13,2025-01-12,0
+BR-PR,Curitiba,BR,True,2023-12-13,2025-01-19,2
+BR-PR,Curitiba,BR,True,2023-12-13,2025-01-26,0
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-07-30,5
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-08-06,71
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-08-13,18
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-08-20,9
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-08-27,7
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-09-03,6
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-09-10,5
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-09-17,4
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-09-24,4
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-10-01,4
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-10-08,7
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-10-15,5
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-10-22,6
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-10-29,7
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-11-05,8
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-11-12,10
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-11-19,10
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-11-26,21
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-12-03,30
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-12-10,100
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-12-17,96
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-12-24,9
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2023-12-31,5
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-01-07,4
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-01-14,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-01-21,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-01-28,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-02-04,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-02-11,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-02-18,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-02-25,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-03-03,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-03-10,4
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-03-17,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-03-24,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-03-31,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-04-07,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-04-14,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-04-21,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-04-28,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-05-05,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-05-12,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-05-19,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-05-26,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-06-02,4
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-06-09,5
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-06-16,6
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-06-23,9
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-06-30,4
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-07-07,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-07-14,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-07-21,4
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-07-28,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-08-04,1
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-08-11,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-08-18,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-08-25,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-09-01,1
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-09-08,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-09-15,4
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-09-22,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-09-29,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-10-06,5
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-10-13,10
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-10-20,5
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-10-27,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-11-03,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-11-10,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-11-17,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-11-24,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-12-01,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-12-08,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-12-15,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-12-22,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2024-12-29,3
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2025-01-05,1
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2025-01-12,0
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2025-01-19,2
+BR-RJ,Rio de Janeiro,BR,True,2023-12-16,2025-01-26,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-07-30,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-08-06,23
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-08-13,7
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-08-20,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-08-27,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-09-03,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-09-10,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-09-17,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-09-24,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-10-01,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-10-08,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-10-15,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-10-22,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-10-29,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-11-05,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-11-12,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-11-19,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-11-26,7
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-12-03,8
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-12-10,21
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-12-17,15
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-12-24,4
+BR-SC,Florianopolis,BR,True,2024-10-19,2023-12-31,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-01-07,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-01-14,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-01-21,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-01-28,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-02-04,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-02-11,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-02-18,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-02-25,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-03-03,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-03-10,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-03-17,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-03-24,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-03-31,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-04-07,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-04-14,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-04-21,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-04-28,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-05-05,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-05-12,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-05-19,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-05-26,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-06-02,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-06-09,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-06-16,7
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-06-23,67
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-06-30,11
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-07-07,7
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-07-14,4
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-07-21,6
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-07-28,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-08-04,4
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-08-11,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-08-18,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-08-25,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-09-01,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-09-08,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-09-15,8
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-09-22,10
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-09-29,13
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-10-06,16
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-10-13,100
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-10-20,50
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-10-27,4
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-11-03,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-11-10,3
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-11-17,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-11-24,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-12-01,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-12-08,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-12-15,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-12-22,2
+BR-SC,Florianopolis,BR,True,2024-10-19,2024-12-29,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2025-01-05,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2025-01-12,0
+BR-SC,Florianopolis,BR,True,2024-10-19,2025-01-19,1
+BR-SC,Florianopolis,BR,True,2024-10-19,2025-01-26,0
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-07-30,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-08-06,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-08-13,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-08-20,27
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-08-27,51
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-09-03,38
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-09-10,10
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-09-17,6
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-09-24,6
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-10-01,5
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-10-08,5
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-10-15,7
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-10-22,6
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-10-29,10
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-11-05,16
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-11-12,100
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-11-19,14
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-11-26,6
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-12-03,5
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-12-10,4
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-12-17,4
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-12-24,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2023-12-31,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-01-07,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-01-14,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-01-21,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-01-28,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-02-04,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-02-11,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-02-18,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-02-25,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-03-03,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-03-10,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-03-17,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-03-24,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-03-31,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-04-07,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-04-14,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-04-21,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-04-28,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-05-05,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-05-12,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-05-19,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-05-26,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-06-02,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-06-09,5
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-06-16,20
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-06-23,33
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-06-30,9
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-07-07,5
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-07-14,4
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-07-21,4
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-07-28,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-08-04,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-08-11,5
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-08-18,5
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-08-25,4
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-09-01,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-09-08,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-09-15,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-09-22,6
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-09-29,6
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-10-06,6
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-10-13,7
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-10-20,6
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-10-27,7
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-11-03,16
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-11-10,71
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-11-17,25
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-11-24,5
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-12-01,4
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-12-08,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-12-15,4
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-12-22,4
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2024-12-29,4
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2025-01-05,2
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2025-01-12,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2025-01-19,3
+MX-DIF,Cidade do Mexico,MX,True,2023-11-14,2025-01-26,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-07-30,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-08-06,1
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-08-13,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-08-20,6
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-08-27,13
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-09-03,10
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-09-10,3
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-09-17,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-09-24,1
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-10-01,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-10-08,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-10-15,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-10-22,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-10-29,3
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-11-05,4
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-11-12,12
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-11-19,6
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-11-26,3
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-12-03,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-12-10,3
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-12-17,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-12-24,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2023-12-31,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-01-07,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-01-14,1
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-01-21,1
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-01-28,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-02-04,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-02-11,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-02-18,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-02-25,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-03-03,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-03-10,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-03-17,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-03-24,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-03-31,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-04-07,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-04-14,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-04-21,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-04-28,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-05-05,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-05-12,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-05-19,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-05-26,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-06-02,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-06-09,3
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-06-16,23
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-06-23,49
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-06-30,9
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-07-07,5
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-07-14,4
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-07-21,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-07-28,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-08-04,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-08-11,3
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-08-18,4
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-08-25,4
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-09-01,4
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-09-08,4
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-09-15,5
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-09-22,5
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-09-29,6
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-10-06,9
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-10-13,7
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-10-20,8
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-10-27,14
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-11-03,100
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-11-10,25
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-11-17,7
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-11-24,3
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-12-01,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-12-08,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-12-15,2
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-12-22,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2024-12-29,3
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2025-01-05,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2025-01-12,1
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2025-01-19,0
+MX-NLE,Monterrey (Guadalupe),MX,True,2024-11-08,2025-01-26,1
+BR-BA,Salvador (controle),BR,False,,2023-07-30,25
+BR-BA,Salvador (controle),BR,False,,2023-08-06,98
+BR-BA,Salvador (controle),BR,False,,2023-08-13,55
+BR-BA,Salvador (controle),BR,False,,2023-08-20,23
+BR-BA,Salvador (controle),BR,False,,2023-08-27,16
+BR-BA,Salvador (controle),BR,False,,2023-09-03,14
+BR-BA,Salvador (controle),BR,False,,2023-09-10,16
+BR-BA,Salvador (controle),BR,False,,2023-09-17,14
+BR-BA,Salvador (controle),BR,False,,2023-09-24,0
+BR-BA,Salvador (controle),BR,False,,2023-10-01,0
+BR-BA,Salvador (controle),BR,False,,2023-10-08,23
+BR-BA,Salvador (controle),BR,False,,2023-10-15,0
+BR-BA,Salvador (controle),BR,False,,2023-10-22,24
+BR-BA,Salvador (controle),BR,False,,2023-10-29,17
+BR-BA,Salvador (controle),BR,False,,2023-11-05,18
+BR-BA,Salvador (controle),BR,False,,2023-11-12,24
+BR-BA,Salvador (controle),BR,False,,2023-11-19,28
+BR-BA,Salvador (controle),BR,False,,2023-11-26,51
+BR-BA,Salvador (controle),BR,False,,2023-12-03,82
+BR-BA,Salvador (controle),BR,False,,2023-12-10,50
+BR-BA,Salvador (controle),BR,False,,2023-12-17,100
+BR-BA,Salvador (controle),BR,False,,2023-12-24,29
+BR-BA,Salvador (controle),BR,False,,2023-12-31,20
+BR-BA,Salvador (controle),BR,False,,2024-01-07,18
+BR-BA,Salvador (controle),BR,False,,2024-01-14,0
+BR-BA,Salvador (controle),BR,False,,2024-01-21,17
+BR-BA,Salvador (controle),BR,False,,2024-01-28,0
+BR-BA,Salvador (controle),BR,False,,2024-02-04,0
+BR-BA,Salvador (controle),BR,False,,2024-02-11,0
+BR-BA,Salvador (controle),BR,False,,2024-02-18,0
+BR-BA,Salvador (controle),BR,False,,2024-02-25,0
+BR-BA,Salvador (controle),BR,False,,2024-03-03,18
+BR-BA,Salvador (controle),BR,False,,2024-03-10,0
+BR-BA,Salvador (controle),BR,False,,2024-03-17,15
+BR-BA,Salvador (controle),BR,False,,2024-03-24,0
+BR-BA,Salvador (controle),BR,False,,2024-03-31,0
+BR-BA,Salvador (controle),BR,False,,2024-04-07,0
+BR-BA,Salvador (controle),BR,False,,2024-04-14,0
+BR-BA,Salvador (controle),BR,False,,2024-04-21,0
+BR-BA,Salvador (controle),BR,False,,2024-04-28,0
+BR-BA,Salvador (controle),BR,False,,2024-05-05,0
+BR-BA,Salvador (controle),BR,False,,2024-05-12,0
+BR-BA,Salvador (controle),BR,False,,2024-05-19,16
+BR-BA,Salvador (controle),BR,False,,2024-05-26,17
+BR-BA,Salvador (controle),BR,False,,2024-06-02,20
+BR-BA,Salvador (controle),BR,False,,2024-06-09,30
+BR-BA,Salvador (controle),BR,False,,2024-06-16,40
+BR-BA,Salvador (controle),BR,False,,2024-06-23,46
+BR-BA,Salvador (controle),BR,False,,2024-06-30,16
+BR-BA,Salvador (controle),BR,False,,2024-07-07,0
+BR-BA,Salvador (controle),BR,False,,2024-07-14,0
+BR-BA,Salvador (controle),BR,False,,2024-07-21,20
+BR-BA,Salvador (controle),BR,False,,2024-07-28,0
+BR-BA,Salvador (controle),BR,False,,2024-08-04,0
+BR-BA,Salvador (controle),BR,False,,2024-08-11,17
+BR-BA,Salvador (controle),BR,False,,2024-08-18,0
+BR-BA,Salvador (controle),BR,False,,2024-08-25,0
+BR-BA,Salvador (controle),BR,False,,2024-09-01,22
+BR-BA,Salvador (controle),BR,False,,2024-09-08,19
+BR-BA,Salvador (controle),BR,False,,2024-09-15,0
+BR-BA,Salvador (controle),BR,False,,2024-09-22,15
+BR-BA,Salvador (controle),BR,False,,2024-09-29,0
+BR-BA,Salvador (controle),BR,False,,2024-10-06,0
+BR-BA,Salvador (controle),BR,False,,2024-10-13,27
+BR-BA,Salvador (controle),BR,False,,2024-10-20,15
+BR-BA,Salvador (controle),BR,False,,2024-10-27,0
+BR-BA,Salvador (controle),BR,False,,2024-11-03,0
+BR-BA,Salvador (controle),BR,False,,2024-11-10,0
+BR-BA,Salvador (controle),BR,False,,2024-11-17,0
+BR-BA,Salvador (controle),BR,False,,2024-11-24,0
+BR-BA,Salvador (controle),BR,False,,2024-12-01,0
+BR-BA,Salvador (controle),BR,False,,2024-12-08,0
+BR-BA,Salvador (controle),BR,False,,2024-12-15,0
+BR-BA,Salvador (controle),BR,False,,2024-12-22,0
+BR-BA,Salvador (controle),BR,False,,2024-12-29,0
+BR-BA,Salvador (controle),BR,False,,2025-01-05,0
+BR-BA,Salvador (controle),BR,False,,2025-01-12,0
+BR-BA,Salvador (controle),BR,False,,2025-01-19,0
+BR-BA,Salvador (controle),BR,False,,2025-01-26,0
+BR-PE,Recife (controle),BR,False,,2023-07-30,20
+BR-PE,Recife (controle),BR,False,,2023-08-06,77
+BR-PE,Recife (controle),BR,False,,2023-08-13,36
+BR-PE,Recife (controle),BR,False,,2023-08-20,20
+BR-PE,Recife (controle),BR,False,,2023-08-27,18
+BR-PE,Recife (controle),BR,False,,2023-09-03,14
+BR-PE,Recife (controle),BR,False,,2023-09-10,0
+BR-PE,Recife (controle),BR,False,,2023-09-17,0
+BR-PE,Recife (controle),BR,False,,2023-09-24,0
+BR-PE,Recife (controle),BR,False,,2023-10-01,0
+BR-PE,Recife (controle),BR,False,,2023-10-08,0
+BR-PE,Recife (controle),BR,False,,2023-10-15,24
+BR-PE,Recife (controle),BR,False,,2023-10-22,0
+BR-PE,Recife (controle),BR,False,,2023-10-29,18
+BR-PE,Recife (controle),BR,False,,2023-11-05,20
+BR-PE,Recife (controle),BR,False,,2023-11-12,12
+BR-PE,Recife (controle),BR,False,,2023-11-19,14
+BR-PE,Recife (controle),BR,False,,2023-11-26,55
+BR-PE,Recife (controle),BR,False,,2023-12-03,59
+BR-PE,Recife (controle),BR,False,,2023-12-10,58
+BR-PE,Recife (controle),BR,False,,2023-12-17,100
+BR-PE,Recife (controle),BR,False,,2023-12-24,33
+BR-PE,Recife (controle),BR,False,,2023-12-31,0
+BR-PE,Recife (controle),BR,False,,2024-01-07,14
+BR-PE,Recife (controle),BR,False,,2024-01-14,0
+BR-PE,Recife (controle),BR,False,,2024-01-21,0
+BR-PE,Recife (controle),BR,False,,2024-01-28,0
+BR-PE,Recife (controle),BR,False,,2024-02-04,0
+BR-PE,Recife (controle),BR,False,,2024-02-11,0
+BR-PE,Recife (controle),BR,False,,2024-02-18,0
+BR-PE,Recife (controle),BR,False,,2024-02-25,0
+BR-PE,Recife (controle),BR,False,,2024-03-03,0
+BR-PE,Recife (controle),BR,False,,2024-03-10,0
+BR-PE,Recife (controle),BR,False,,2024-03-17,0
+BR-PE,Recife (controle),BR,False,,2024-03-24,0
+BR-PE,Recife (controle),BR,False,,2024-03-31,0
+BR-PE,Recife (controle),BR,False,,2024-04-07,0
+BR-PE,Recife (controle),BR,False,,2024-04-14,0
+BR-PE,Recife (controle),BR,False,,2024-04-21,0
+BR-PE,Recife (controle),BR,False,,2024-04-28,23
+BR-PE,Recife (controle),BR,False,,2024-05-05,0
+BR-PE,Recife (controle),BR,False,,2024-05-12,0
+BR-PE,Recife (controle),BR,False,,2024-05-19,0
+BR-PE,Recife (controle),BR,False,,2024-05-26,0
+BR-PE,Recife (controle),BR,False,,2024-06-02,0
+BR-PE,Recife (controle),BR,False,,2024-06-09,23
+BR-PE,Recife (controle),BR,False,,2024-06-16,40
+BR-PE,Recife (controle),BR,False,,2024-06-23,46
+BR-PE,Recife (controle),BR,False,,2024-06-30,22
+BR-PE,Recife (controle),BR,False,,2024-07-07,17
+BR-PE,Recife (controle),BR,False,,2024-07-14,15
+BR-PE,Recife (controle),BR,False,,2024-07-21,20
+BR-PE,Recife (controle),BR,False,,2024-07-28,0
+BR-PE,Recife (controle),BR,False,,2024-08-04,0
+BR-PE,Recife (controle),BR,False,,2024-08-11,0
+BR-PE,Recife (controle),BR,False,,2024-08-18,15
+BR-PE,Recife (controle),BR,False,,2024-08-25,0
+BR-PE,Recife (controle),BR,False,,2024-09-01,0
+BR-PE,Recife (controle),BR,False,,2024-09-08,0
+BR-PE,Recife (controle),BR,False,,2024-09-15,0
+BR-PE,Recife (controle),BR,False,,2024-09-22,0
+BR-PE,Recife (controle),BR,False,,2024-09-29,16
+BR-PE,Recife (controle),BR,False,,2024-10-06,15
+BR-PE,Recife (controle),BR,False,,2024-10-13,44
+BR-PE,Recife (controle),BR,False,,2024-10-20,18
+BR-PE,Recife (controle),BR,False,,2024-10-27,0
+BR-PE,Recife (controle),BR,False,,2024-11-03,0
+BR-PE,Recife (controle),BR,False,,2024-11-10,0
+BR-PE,Recife (controle),BR,False,,2024-11-17,0
+BR-PE,Recife (controle),BR,False,,2024-11-24,0
+BR-PE,Recife (controle),BR,False,,2024-12-01,0
+BR-PE,Recife (controle),BR,False,,2024-12-08,0
+BR-PE,Recife (controle),BR,False,,2024-12-15,0
+BR-PE,Recife (controle),BR,False,,2024-12-22,0
+BR-PE,Recife (controle),BR,False,,2024-12-29,0
+BR-PE,Recife (controle),BR,False,,2025-01-05,0
+BR-PE,Recife (controle),BR,False,,2025-01-12,0
+BR-PE,Recife (controle),BR,False,,2025-01-19,20
+BR-PE,Recife (controle),BR,False,,2025-01-26,0
+BR-CE,Fortaleza (controle),BR,False,,2023-07-30,15
+BR-CE,Fortaleza (controle),BR,False,,2023-08-06,100
+BR-CE,Fortaleza (controle),BR,False,,2023-08-13,37
+BR-CE,Fortaleza (controle),BR,False,,2023-08-20,31
+BR-CE,Fortaleza (controle),BR,False,,2023-08-27,19
+BR-CE,Fortaleza (controle),BR,False,,2023-09-03,0
+BR-CE,Fortaleza (controle),BR,False,,2023-09-10,14
+BR-CE,Fortaleza (controle),BR,False,,2023-09-17,13
+BR-CE,Fortaleza (controle),BR,False,,2023-09-24,18
+BR-CE,Fortaleza (controle),BR,False,,2023-10-01,13
+BR-CE,Fortaleza (controle),BR,False,,2023-10-08,21
+BR-CE,Fortaleza (controle),BR,False,,2023-10-15,16
+BR-CE,Fortaleza (controle),BR,False,,2023-10-22,17
+BR-CE,Fortaleza (controle),BR,False,,2023-10-29,21
+BR-CE,Fortaleza (controle),BR,False,,2023-11-05,21
+BR-CE,Fortaleza (controle),BR,False,,2023-11-12,18
+BR-CE,Fortaleza (controle),BR,False,,2023-11-19,23
+BR-CE,Fortaleza (controle),BR,False,,2023-11-26,73
+BR-CE,Fortaleza (controle),BR,False,,2023-12-03,63
+BR-CE,Fortaleza (controle),BR,False,,2023-12-10,61
+BR-CE,Fortaleza (controle),BR,False,,2023-12-17,99
+BR-CE,Fortaleza (controle),BR,False,,2023-12-24,35
+BR-CE,Fortaleza (controle),BR,False,,2023-12-31,15
+BR-CE,Fortaleza (controle),BR,False,,2024-01-07,20
+BR-CE,Fortaleza (controle),BR,False,,2024-01-14,0
+BR-CE,Fortaleza (controle),BR,False,,2024-01-21,0
+BR-CE,Fortaleza (controle),BR,False,,2024-01-28,0
+BR-CE,Fortaleza (controle),BR,False,,2024-02-04,16
+BR-CE,Fortaleza (controle),BR,False,,2024-02-11,0
+BR-CE,Fortaleza (controle),BR,False,,2024-02-18,16
+BR-CE,Fortaleza (controle),BR,False,,2024-02-25,0
+BR-CE,Fortaleza (controle),BR,False,,2024-03-03,20
+BR-CE,Fortaleza (controle),BR,False,,2024-03-10,19
+BR-CE,Fortaleza (controle),BR,False,,2024-03-17,0
+BR-CE,Fortaleza (controle),BR,False,,2024-03-24,0
+BR-CE,Fortaleza (controle),BR,False,,2024-03-31,22
+BR-CE,Fortaleza (controle),BR,False,,2024-04-07,0
+BR-CE,Fortaleza (controle),BR,False,,2024-04-14,0
+BR-CE,Fortaleza (controle),BR,False,,2024-04-21,0
+BR-CE,Fortaleza (controle),BR,False,,2024-04-28,15
+BR-CE,Fortaleza (controle),BR,False,,2024-05-05,0
+BR-CE,Fortaleza (controle),BR,False,,2024-05-12,0
+BR-CE,Fortaleza (controle),BR,False,,2024-05-19,0
+BR-CE,Fortaleza (controle),BR,False,,2024-05-26,0
+BR-CE,Fortaleza (controle),BR,False,,2024-06-02,20
+BR-CE,Fortaleza (controle),BR,False,,2024-06-09,21
+BR-CE,Fortaleza (controle),BR,False,,2024-06-16,39
+BR-CE,Fortaleza (controle),BR,False,,2024-06-23,44
+BR-CE,Fortaleza (controle),BR,False,,2024-06-30,22
+BR-CE,Fortaleza (controle),BR,False,,2024-07-07,0
+BR-CE,Fortaleza (controle),BR,False,,2024-07-14,0
+BR-CE,Fortaleza (controle),BR,False,,2024-07-21,0
+BR-CE,Fortaleza (controle),BR,False,,2024-07-28,0
+BR-CE,Fortaleza (controle),BR,False,,2024-08-04,15
+BR-CE,Fortaleza (controle),BR,False,,2024-08-11,0
+BR-CE,Fortaleza (controle),BR,False,,2024-08-18,0
+BR-CE,Fortaleza (controle),BR,False,,2024-08-25,14
+BR-CE,Fortaleza (controle),BR,False,,2024-09-01,0
+BR-CE,Fortaleza (controle),BR,False,,2024-09-08,0
+BR-CE,Fortaleza (controle),BR,False,,2024-09-15,0
+BR-CE,Fortaleza (controle),BR,False,,2024-09-22,0
+BR-CE,Fortaleza (controle),BR,False,,2024-09-29,19
+BR-CE,Fortaleza (controle),BR,False,,2024-10-06,24
+BR-CE,Fortaleza (controle),BR,False,,2024-10-13,44
+BR-CE,Fortaleza (controle),BR,False,,2024-10-20,24
+BR-CE,Fortaleza (controle),BR,False,,2024-10-27,0
+BR-CE,Fortaleza (controle),BR,False,,2024-11-03,0
+BR-CE,Fortaleza (controle),BR,False,,2024-11-10,20
+BR-CE,Fortaleza (controle),BR,False,,2024-11-17,0
+BR-CE,Fortaleza (controle),BR,False,,2024-11-24,0
+BR-CE,Fortaleza (controle),BR,False,,2024-12-01,0
+BR-CE,Fortaleza (controle),BR,False,,2024-12-08,0
+BR-CE,Fortaleza (controle),BR,False,,2024-12-15,0
+BR-CE,Fortaleza (controle),BR,False,,2024-12-22,0
+BR-CE,Fortaleza (controle),BR,False,,2024-12-29,0
+BR-CE,Fortaleza (controle),BR,False,,2025-01-05,0
+BR-CE,Fortaleza (controle),BR,False,,2025-01-12,0
+BR-CE,Fortaleza (controle),BR,False,,2025-01-19,0
+BR-CE,Fortaleza (controle),BR,False,,2025-01-26,17
+BR-RS,Porto Alegre (controle),BR,False,,2023-07-30,20
+BR-RS,Porto Alegre (controle),BR,False,,2023-08-06,100
+BR-RS,Porto Alegre (controle),BR,False,,2023-08-13,32
+BR-RS,Porto Alegre (controle),BR,False,,2023-08-20,16
+BR-RS,Porto Alegre (controle),BR,False,,2023-08-27,9
+BR-RS,Porto Alegre (controle),BR,False,,2023-09-03,10
+BR-RS,Porto Alegre (controle),BR,False,,2023-09-10,8
+BR-RS,Porto Alegre (controle),BR,False,,2023-09-17,10
+BR-RS,Porto Alegre (controle),BR,False,,2023-09-24,10
+BR-RS,Porto Alegre (controle),BR,False,,2023-10-01,7
+BR-RS,Porto Alegre (controle),BR,False,,2023-10-08,14
+BR-RS,Porto Alegre (controle),BR,False,,2023-10-15,10
+BR-RS,Porto Alegre (controle),BR,False,,2023-10-22,10
+BR-RS,Porto Alegre (controle),BR,False,,2023-10-29,18
+BR-RS,Porto Alegre (controle),BR,False,,2023-11-05,13
+BR-RS,Porto Alegre (controle),BR,False,,2023-11-12,18
+BR-RS,Porto Alegre (controle),BR,False,,2023-11-19,19
+BR-RS,Porto Alegre (controle),BR,False,,2023-11-26,36
+BR-RS,Porto Alegre (controle),BR,False,,2023-12-03,51
+BR-RS,Porto Alegre (controle),BR,False,,2023-12-10,69
+BR-RS,Porto Alegre (controle),BR,False,,2023-12-17,78
+BR-RS,Porto Alegre (controle),BR,False,,2023-12-24,25
+BR-RS,Porto Alegre (controle),BR,False,,2023-12-31,10
+BR-RS,Porto Alegre (controle),BR,False,,2024-01-07,9
+BR-RS,Porto Alegre (controle),BR,False,,2024-01-14,7
+BR-RS,Porto Alegre (controle),BR,False,,2024-01-21,7
+BR-RS,Porto Alegre (controle),BR,False,,2024-01-28,11
+BR-RS,Porto Alegre (controle),BR,False,,2024-02-04,6
+BR-RS,Porto Alegre (controle),BR,False,,2024-02-11,9
+BR-RS,Porto Alegre (controle),BR,False,,2024-02-18,10
+BR-RS,Porto Alegre (controle),BR,False,,2024-02-25,8
+BR-RS,Porto Alegre (controle),BR,False,,2024-03-03,7
+BR-RS,Porto Alegre (controle),BR,False,,2024-03-10,9
+BR-RS,Porto Alegre (controle),BR,False,,2024-03-17,5
+BR-RS,Porto Alegre (controle),BR,False,,2024-03-24,0
+BR-RS,Porto Alegre (controle),BR,False,,2024-03-31,7
+BR-RS,Porto Alegre (controle),BR,False,,2024-04-07,7
+BR-RS,Porto Alegre (controle),BR,False,,2024-04-14,7
+BR-RS,Porto Alegre (controle),BR,False,,2024-04-21,8
+BR-RS,Porto Alegre (controle),BR,False,,2024-04-28,9
+BR-RS,Porto Alegre (controle),BR,False,,2024-05-05,0
+BR-RS,Porto Alegre (controle),BR,False,,2024-05-12,6
+BR-RS,Porto Alegre (controle),BR,False,,2024-05-19,11
+BR-RS,Porto Alegre (controle),BR,False,,2024-05-26,6
+BR-RS,Porto Alegre (controle),BR,False,,2024-06-02,16
+BR-RS,Porto Alegre (controle),BR,False,,2024-06-09,24
+BR-RS,Porto Alegre (controle),BR,False,,2024-06-16,31
+BR-RS,Porto Alegre (controle),BR,False,,2024-06-23,79
+BR-RS,Porto Alegre (controle),BR,False,,2024-06-30,26
+BR-RS,Porto Alegre (controle),BR,False,,2024-07-07,8
+BR-RS,Porto Alegre (controle),BR,False,,2024-07-14,11
+BR-RS,Porto Alegre (controle),BR,False,,2024-07-21,10
+BR-RS,Porto Alegre (controle),BR,False,,2024-07-28,8
+BR-RS,Porto Alegre (controle),BR,False,,2024-08-04,9
+BR-RS,Porto Alegre (controle),BR,False,,2024-08-11,14
+BR-RS,Porto Alegre (controle),BR,False,,2024-08-18,15
+BR-RS,Porto Alegre (controle),BR,False,,2024-08-25,10
+BR-RS,Porto Alegre (controle),BR,False,,2024-09-01,8
+BR-RS,Porto Alegre (controle),BR,False,,2024-09-08,11
+BR-RS,Porto Alegre (controle),BR,False,,2024-09-15,11
+BR-RS,Porto Alegre (controle),BR,False,,2024-09-22,16
+BR-RS,Porto Alegre (controle),BR,False,,2024-09-29,16
+BR-RS,Porto Alegre (controle),BR,False,,2024-10-06,20
+BR-RS,Porto Alegre (controle),BR,False,,2024-10-13,62
+BR-RS,Porto Alegre (controle),BR,False,,2024-10-20,43
+BR-RS,Porto Alegre (controle),BR,False,,2024-10-27,15
+BR-RS,Porto Alegre (controle),BR,False,,2024-11-03,10
+BR-RS,Porto Alegre (controle),BR,False,,2024-11-10,8
+BR-RS,Porto Alegre (controle),BR,False,,2024-11-17,9
+BR-RS,Porto Alegre (controle),BR,False,,2024-11-24,0
+BR-RS,Porto Alegre (controle),BR,False,,2024-12-01,6
+BR-RS,Porto Alegre (controle),BR,False,,2024-12-08,6
+BR-RS,Porto Alegre (controle),BR,False,,2024-12-15,0
+BR-RS,Porto Alegre (controle),BR,False,,2024-12-22,0
+BR-RS,Porto Alegre (controle),BR,False,,2024-12-29,7
+BR-RS,Porto Alegre (controle),BR,False,,2025-01-05,9
+BR-RS,Porto Alegre (controle),BR,False,,2025-01-12,0
+BR-RS,Porto Alegre (controle),BR,False,,2025-01-19,6
+BR-RS,Porto Alegre (controle),BR,False,,2025-01-26,0
+BR-AM,Manaus (controle),BR,False,,2023-07-30,0
+BR-AM,Manaus (controle),BR,False,,2023-08-06,88
+BR-AM,Manaus (controle),BR,False,,2023-08-13,0
+BR-AM,Manaus (controle),BR,False,,2023-08-20,0
+BR-AM,Manaus (controle),BR,False,,2023-08-27,0
+BR-AM,Manaus (controle),BR,False,,2023-09-03,0
+BR-AM,Manaus (controle),BR,False,,2023-09-10,0
+BR-AM,Manaus (controle),BR,False,,2023-09-17,0
+BR-AM,Manaus (controle),BR,False,,2023-09-24,0
+BR-AM,Manaus (controle),BR,False,,2023-10-01,0
+BR-AM,Manaus (controle),BR,False,,2023-10-08,0
+BR-AM,Manaus (controle),BR,False,,2023-10-15,0
+BR-AM,Manaus (controle),BR,False,,2023-10-22,0
+BR-AM,Manaus (controle),BR,False,,2023-10-29,0
+BR-AM,Manaus (controle),BR,False,,2023-11-05,0
+BR-AM,Manaus (controle),BR,False,,2023-11-12,0
+BR-AM,Manaus (controle),BR,False,,2023-11-19,0
+BR-AM,Manaus (controle),BR,False,,2023-11-26,60
+BR-AM,Manaus (controle),BR,False,,2023-12-03,42
+BR-AM,Manaus (controle),BR,False,,2023-12-10,48
+BR-AM,Manaus (controle),BR,False,,2023-12-17,100
+BR-AM,Manaus (controle),BR,False,,2023-12-24,0
+BR-AM,Manaus (controle),BR,False,,2023-12-31,0
+BR-AM,Manaus (controle),BR,False,,2024-01-07,0
+BR-AM,Manaus (controle),BR,False,,2024-01-14,0
+BR-AM,Manaus (controle),BR,False,,2024-01-21,0
+BR-AM,Manaus (controle),BR,False,,2024-01-28,0
+BR-AM,Manaus (controle),BR,False,,2024-02-04,0
+BR-AM,Manaus (controle),BR,False,,2024-02-11,0
+BR-AM,Manaus (controle),BR,False,,2024-02-18,0
+BR-AM,Manaus (controle),BR,False,,2024-02-25,0
+BR-AM,Manaus (controle),BR,False,,2024-03-03,0
+BR-AM,Manaus (controle),BR,False,,2024-03-10,0
+BR-AM,Manaus (controle),BR,False,,2024-03-17,0
+BR-AM,Manaus (controle),BR,False,,2024-03-24,0
+BR-AM,Manaus (controle),BR,False,,2024-03-31,0
+BR-AM,Manaus (controle),BR,False,,2024-04-07,0
+BR-AM,Manaus (controle),BR,False,,2024-04-14,0
+BR-AM,Manaus (controle),BR,False,,2024-04-21,0
+BR-AM,Manaus (controle),BR,False,,2024-04-28,0
+BR-AM,Manaus (controle),BR,False,,2024-05-05,0
+BR-AM,Manaus (controle),BR,False,,2024-05-12,0
+BR-AM,Manaus (controle),BR,False,,2024-05-19,0
+BR-AM,Manaus (controle),BR,False,,2024-05-26,0
+BR-AM,Manaus (controle),BR,False,,2024-06-02,0
+BR-AM,Manaus (controle),BR,False,,2024-06-09,0
+BR-AM,Manaus (controle),BR,False,,2024-06-16,40
+BR-AM,Manaus (controle),BR,False,,2024-06-23,47
+BR-AM,Manaus (controle),BR,False,,2024-06-30,0
+BR-AM,Manaus (controle),BR,False,,2024-07-07,0
+BR-AM,Manaus (controle),BR,False,,2024-07-14,0
+BR-AM,Manaus (controle),BR,False,,2024-07-21,0
+BR-AM,Manaus (controle),BR,False,,2024-07-28,0
+BR-AM,Manaus (controle),BR,False,,2024-08-04,36
+BR-AM,Manaus (controle),BR,False,,2024-08-11,0
+BR-AM,Manaus (controle),BR,False,,2024-08-18,0
+BR-AM,Manaus (controle),BR,False,,2024-08-25,0
+BR-AM,Manaus (controle),BR,False,,2024-09-01,0
+BR-AM,Manaus (controle),BR,False,,2024-09-08,0
+BR-AM,Manaus (controle),BR,False,,2024-09-15,0
+BR-AM,Manaus (controle),BR,False,,2024-09-22,0
+BR-AM,Manaus (controle),BR,False,,2024-09-29,0
+BR-AM,Manaus (controle),BR,False,,2024-10-06,0
+BR-AM,Manaus (controle),BR,False,,2024-10-13,0
+BR-AM,Manaus (controle),BR,False,,2024-10-20,0
+BR-AM,Manaus (controle),BR,False,,2024-10-27,0
+BR-AM,Manaus (controle),BR,False,,2024-11-03,0
+BR-AM,Manaus (controle),BR,False,,2024-11-10,0
+BR-AM,Manaus (controle),BR,False,,2024-11-17,0
+BR-AM,Manaus (controle),BR,False,,2024-11-24,0
+BR-AM,Manaus (controle),BR,False,,2024-12-01,0
+BR-AM,Manaus (controle),BR,False,,2024-12-08,0
+BR-AM,Manaus (controle),BR,False,,2024-12-15,0
+BR-AM,Manaus (controle),BR,False,,2024-12-22,0
+BR-AM,Manaus (controle),BR,False,,2024-12-29,0
+BR-AM,Manaus (controle),BR,False,,2025-01-05,0
+BR-AM,Manaus (controle),BR,False,,2025-01-12,0
+BR-AM,Manaus (controle),BR,False,,2025-01-19,0
+BR-AM,Manaus (controle),BR,False,,2025-01-26,0
+MX-JAL,Guadalajara (controle),MX,False,,2023-07-30,0
+MX-JAL,Guadalajara (controle),MX,False,,2023-08-06,15
+MX-JAL,Guadalajara (controle),MX,False,,2023-08-13,0
+MX-JAL,Guadalajara (controle),MX,False,,2023-08-20,45
+MX-JAL,Guadalajara (controle),MX,False,,2023-08-27,82
+MX-JAL,Guadalajara (controle),MX,False,,2023-09-03,60
+MX-JAL,Guadalajara (controle),MX,False,,2023-09-10,26
+MX-JAL,Guadalajara (controle),MX,False,,2023-09-17,22
+MX-JAL,Guadalajara (controle),MX,False,,2023-09-24,12
+MX-JAL,Guadalajara (controle),MX,False,,2023-10-01,16
+MX-JAL,Guadalajara (controle),MX,False,,2023-10-08,13
+MX-JAL,Guadalajara (controle),MX,False,,2023-10-15,17
+MX-JAL,Guadalajara (controle),MX,False,,2023-10-22,16
+MX-JAL,Guadalajara (controle),MX,False,,2023-10-29,14
+MX-JAL,Guadalajara (controle),MX,False,,2023-11-05,38
+MX-JAL,Guadalajara (controle),MX,False,,2023-11-12,100
+MX-JAL,Guadalajara (controle),MX,False,,2023-11-19,36
+MX-JAL,Guadalajara (controle),MX,False,,2023-11-26,19
+MX-JAL,Guadalajara (controle),MX,False,,2023-12-03,11
+MX-JAL,Guadalajara (controle),MX,False,,2023-12-10,14
+MX-JAL,Guadalajara (controle),MX,False,,2023-12-17,20
+MX-JAL,Guadalajara (controle),MX,False,,2023-12-24,18
+MX-JAL,Guadalajara (controle),MX,False,,2023-12-31,18
+MX-JAL,Guadalajara (controle),MX,False,,2024-01-07,14
+MX-JAL,Guadalajara (controle),MX,False,,2024-01-14,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-01-21,12
+MX-JAL,Guadalajara (controle),MX,False,,2024-01-28,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-02-04,11
+MX-JAL,Guadalajara (controle),MX,False,,2024-02-11,12
+MX-JAL,Guadalajara (controle),MX,False,,2024-02-18,12
+MX-JAL,Guadalajara (controle),MX,False,,2024-02-25,12
+MX-JAL,Guadalajara (controle),MX,False,,2024-03-03,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-03-10,10
+MX-JAL,Guadalajara (controle),MX,False,,2024-03-17,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-03-24,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-03-31,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-04-07,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-04-14,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-04-21,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-04-28,11
+MX-JAL,Guadalajara (controle),MX,False,,2024-05-05,11
+MX-JAL,Guadalajara (controle),MX,False,,2024-05-12,18
+MX-JAL,Guadalajara (controle),MX,False,,2024-05-19,12
+MX-JAL,Guadalajara (controle),MX,False,,2024-05-26,15
+MX-JAL,Guadalajara (controle),MX,False,,2024-06-02,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-06-09,13
+MX-JAL,Guadalajara (controle),MX,False,,2024-06-16,56
+MX-JAL,Guadalajara (controle),MX,False,,2024-06-23,90
+MX-JAL,Guadalajara (controle),MX,False,,2024-06-30,28
+MX-JAL,Guadalajara (controle),MX,False,,2024-07-07,18
+MX-JAL,Guadalajara (controle),MX,False,,2024-07-14,16
+MX-JAL,Guadalajara (controle),MX,False,,2024-07-21,17
+MX-JAL,Guadalajara (controle),MX,False,,2024-07-28,12
+MX-JAL,Guadalajara (controle),MX,False,,2024-08-04,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-08-11,19
+MX-JAL,Guadalajara (controle),MX,False,,2024-08-18,17
+MX-JAL,Guadalajara (controle),MX,False,,2024-08-25,10
+MX-JAL,Guadalajara (controle),MX,False,,2024-09-01,0
+MX-JAL,Guadalajara (controle),MX,False,,2024-09-08,18
+MX-JAL,Guadalajara (controle),MX,False,,2024-09-15,16
+MX-JAL,Guadalajara (controle),MX,False,,2024-09-22,13
+MX-JAL,Guadalajara (controle),MX,False,,2024-09-29,19
+MX-JAL,Guadalajara (controle),MX,False,,2024-10-06,13
+MX-JAL,Guadalajara (controle),MX,False,,2024-10-13,11
+MX-JAL,Guadalajara (controle),MX,False,,2024-10-20,11
+MX-JAL,Guadalajara (controle),MX,False,,2024-10-27,13
+MX-JAL,Guadalajara (controle),MX,False,,2024-11-03,36
+MX-JAL,Guadalajara (controle),MX,False,,2024-11-10,60
+MX-JAL,Guadalajara (controle),MX,False,,2024-11-17,37
+MX-JAL,Guadalajara (controle),MX,False,,2024-11-24,17
+MX-JAL,Guadalajara (controle),MX,False,,2024-12-01,13
+MX-JAL,Guadalajara (controle),MX,False,,2024-12-08,18
+MX-JAL,Guadalajara (controle),MX,False,,2024-12-15,17
+MX-JAL,Guadalajara (controle),MX,False,,2024-12-22,15
+MX-JAL,Guadalajara (controle),MX,False,,2024-12-29,0
+MX-JAL,Guadalajara (controle),MX,False,,2025-01-05,12
+MX-JAL,Guadalajara (controle),MX,False,,2025-01-12,0
+MX-JAL,Guadalajara (controle),MX,False,,2025-01-19,11
+MX-JAL,Guadalajara (controle),MX,False,,2025-01-26,0
