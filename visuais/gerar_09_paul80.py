@@ -28,10 +28,27 @@ ax.scatter(x, y, s=90, color=VERMELHO, zorder=3)
 z = pd.Series(y.values).rolling(3, center=True, min_periods=1).mean()
 ax.plot(x, z, color=CINZA, lw=2, ls=(0, (4, 3)), zorder=2)
 
+labeled = set()
 for _, r in shows.iterrows():
-    ax.annotate(f"{r['cidade']}\n{r['data'].year}", (r["idade"], r["n_musicas"]),
-                textcoords="offset points", xytext=(0, 10), ha="center",
-                fontsize=8, color=CINZA, family="DejaVu Sans")
+    key = (r["cidade"], r["data"].year)
+    if key in labeled:
+        continue  # duas noites na mesma cidade/ano: um rotulo so
+    labeled.add(key)
+    grupo = shows[(shows["cidade"] == r["cidade"]) & (shows["data"].dt.year == r["data"].year)]
+    if len(grupo) > 1:
+        # rotulo unico: embaixo se o grupo esta na parte baixa do grafico, em cima se na alta
+        if grupo["n_musicas"].min() < y.median():
+            ancora, desloc = grupo["n_musicas"].min(), (0, -28)
+        else:
+            ancora, desloc = grupo["n_musicas"].max(), (0, 12)
+        ax.annotate(f"{r['cidade']}\n{r['data'].year} (2x)",
+                    (grupo["idade"].mean(), ancora),
+                    textcoords="offset points", xytext=desloc, ha="center",
+                    fontsize=8, color=CINZA, family="DejaVu Sans")
+    else:
+        ax.annotate(f"{r['cidade']}\n{r['data'].year}", (r["idade"], r["n_musicas"]),
+                    textcoords="offset points", xytext=(0, 10), ha="center",
+                    fontsize=8, color=CINZA, family="DejaVu Sans")
 
 ax.axvline(80, color=PRETO, lw=1.1, ls=":", zorder=1)
 ax.text(80.1, y.min() - 1, "turns 80", fontsize=9.5, color=PRETO,
