@@ -1,0 +1,6 @@
+ano,cidade,selic_venda,data_venda,parcelas,taxa_online
+2011,Rio de Janeiro,11.75,2011-04-14,não informado,não informado
+2012,Recife,,,não informado,não informado
+2017,Porto Alegre,11.25,2017-05-08,2x venda geral (5x/3x cartão ELO),"sim, valor não informado"
+2023,Sao Paulo,13.25,2023-08-10,"10x com juros, só online",não informado
+2024,Sao Paulo,10.5,2024-06-26,"até 10x, só online",20%

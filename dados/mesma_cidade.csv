@@ -1,0 +1,6 @@
+cidade,estadio,tier,ano_show,data_venda,preco_inteira_brl,salario_minimo_venda_brl,fonte_preco_url,fonte_salario_url
+Curitiba,Couto Pereira,Arquibancada,2019,2018-12-06,260,954,https://igormiranda.com.br/2018/12/paul-mccartney-shows-brasil-2019/,https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D9255.htm
+Curitiba,Couto Pereira,Arquibancada,2023,2023-08,440,1320,https://www.tribunapr.com.br/viva/paul-mccartney-em-curitiba-ingressos-para-o-show-no-couto-a-venda-a-partir-de-r-220/,https://agenciabrasil.ebc.com.br/economia/noticia/2023-05/salario-minimo-de-r-1320-entra-em-vigor-nesta-segunda
+Sao Paulo,Allianz Parque,Cadeira Superior,2019,2018-12-06,400,954,https://igormiranda.com.br/2018/12/paul-mccartney-shows-brasil-2019/,https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D9255.htm
+Sao Paulo,Allianz Parque,Cadeira Superior,2023,2023-08-10,420,1320,https://igormiranda.com.br/2023/08/paul-mccartney-shows-brasil-2023-ingressos-precos/,https://agenciabrasil.ebc.com.br/economia/noticia/2023-05/salario-minimo-de-r-1320-entra-em-vigor-nesta-segunda
+Sao Paulo,Allianz Parque,Cadeira Superior,2024,2024-06-26,450,1412,https://igormiranda.com.br/2024/06/paul-mccartney-ingressos-shows-brasil-2024/,https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11864.htm
