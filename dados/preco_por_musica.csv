@@ -1,0 +1,6 @@
+show,ano,local,moeda,preco_min_inteira,salario_min_mensal,musicas,fonte_preco,fonte_musicas
+The Beatles,1965,"Shea Stadium, Nova York (15/08/1965)",USD,4.50,216.67,12,dados/shea_1965_index.csv,"https://en.wikipedia.org/wiki/The_Beatles_at_Shea_Stadium (set list) e setlist.fm, conferido 07/11/2026 = 12"
+Paul McCartney,2011,"Rio de Janeiro, Engenhão (22/05/2011)",BRL,180,545,34,dados/paul_brasil_ao_longo_tempo.csv,setlist.fm 22/05/2011 = 34 (confere meus_13_shows show 2)
+Paul McCartney,2012,"Recife, Arruda (21/04/2012)",BRL,160,622,38,dados/paul_brasil_ao_longo_tempo.csv,setlist.fm 21/04/2012 = 38 (confere show 4; há soundcheck de 14 à parte)
+Paul McCartney,2017,"Porto Alegre, Beira-Rio (13/10/2017)",BRL,350,937,39,dados/paul_brasil_ao_longo_tempo.csv,setlist.fm 13/10/2017 = 39 (confere show 6)
+Paul McCartney,2024,"São Paulo, Allianz Parque (15/10/2024)",BRL,450,1412,37,dados/paul_brasil_ao_longo_tempo.csv,setlist.fm 15/10/2024 (37 ao vivo; meus_13_shows_musicas.csv tem 40 porque inclui 3 faixas de tape)
